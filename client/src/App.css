@@ -1,0 +1,35 @@
+body{
+
+    background: linear-gradient(45deg, #3707a6, #fb8312);
+    transition: background 0.5s ease;
+
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-size: larger;
+    font-style: normal;  
+
+}
+
+  
+.table{
+    background-color: white;
+    border-radius: 5px;
+    width: 65%;
+    cursor: 'pointer';
+    font-size: larger;
+}
+.input{
+    width:50%;
+}
+h1{
+    color: white;
+}
+.app {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+.foot {
+    margin-top:auto;
+}
